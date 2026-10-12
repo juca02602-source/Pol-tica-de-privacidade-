@@ -1,0 +1,19 @@
+# Política de Privacidade - Bot Chocolate
+
+Esta Política de Privacidade explica de forma clara como o bot Chocolate lida com as informações e dados dos usuários dentro da plataforma Discord.
+
+## 1. Coleta de Dados
+* Dados Temporários: O bot processa apenas informações enviadas em tempo real através de comandos de barra (como fotos de perfil, nomes de usuários e IDs) para conseguir executar suas funções imediatas (como o comando /avatar ou /userinfo).
+* Armazenamento Zero: Nós NÃO guardamos, NÃO coletamos e NÃO salvamos nenhuma mensagem, foto, histórico de chat ou dado pessoal em bancos de dados externos. Tudo acontece de forma volátil e some assim que o comando termina.
+
+## 2. Compartilhamento de Dados
+* Como nenhum tipo de dado é guardado pelo bot Chocolate, não existe compartilhamento, venda ou distribuição de informações de usuários para terceiros de forma nenhuma.
+
+## 3. Segurança
+* Toda a comunicação do robô é realizada de forma criptografada e segura, utilizando diretamente a estrutura e as conexões oficiais fornecidas pela API do próprio Discord.
+
+## 4. Alterações nesta Política
+* Esta política pode ser atualizada a qualquer momento se o bot ganhar novas funções que precisem guardar dados, mas os usuários serão avisados previamente no servidor.
+
+---
+Se tiver qualquer dúvida sobre o funcionamento do aplicativo, você pode entrar em contato diretamente com o desenvolvedor responsável (juca02602-source).
